@@ -1,4 +1,4 @@
-# Lifetimervo
+# Lifetimer
 
 A idéia desse projeto, como o nome já diz, é fazer um APP, temporizador, que marca a sua idade atual e quantos anos você espera viver, fazendo com isso, calcular quanto tempo você de vida você tem em anos, meses, dias, horas e minutos.
 
